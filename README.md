@@ -47,6 +47,8 @@ The result is an analyst who brings both behavioural depth and technical range: 
     - [Digital Ads Performance](#digital-ads-performance)
     - [B2B Sales Funnel Visualization](#b2b-sales-funnel-visualization)
   - [Instacart Behavioral Analysis (SQL)](#instacart-behavioral-analysis)
+  - [Python](#python)
+    - [Travel Agency Database Challenge](#travel-agency-database-challenge)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
@@ -202,6 +204,24 @@ Two-part analysis of Circle, a sportswear brand:
 **Goal:** Analyze food ordering behavior using the Instacart public dataset.
 
 **Tools:** SQL
+
+---
+
+### Python
+
+#### Travel Agency Database Challenge
+
+**Repo:** [travel-agency-python-analysis](https://github.com/BahadirKoksal/travel-agency-python-analysis)
+
+**Goal:** Build a functional city database and search engine for a travel agency using core Python data structures and functions.
+
+**Description:** Working with a dataset of cities stored as Python dictionaries (name, population, continent, coordinates, area), the project involved building reusable functions to retrieve, update, and query city data — culminating in a geolocation-based search engine that returns nearby cities within a given radius.
+
+**Skills:** Python functions, dictionaries, lists, loops, conditional logic, geospatial distance calculation
+
+**Technology:** Python, Geopy
+
+**Results:** Delivered a working `get_cities_nearby()` function that takes a customer's coordinates and a radius (km) and returns all cities within range — a practical tool for travel destination recommendation.
 
 ---
 
