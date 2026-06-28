@@ -32,6 +32,7 @@ The result is an analyst who brings both behavioural depth and technical range: 
     - [Greenweez E-Commerce Suite](#greenweez-e-commerce-suite)
     - [Circle Sportswear Analysis](#circle-sportswear-analysis)
     - [Olist E-Commerce Analysis](#olist-e-commerce-analysis)
+    - [Olist E-Commerce Data Analysis & Business Insights](#olist-e-commerce-data-analysis--business-insights)
     - [Other SQL Projects](#other-sql-projects)
   - [Power BI](#power-bi)
     - [TheLook E-Commerce Power BI Dashboard](#thelook-e-commerce-power-bi-dashboard)
@@ -93,6 +94,18 @@ Two-part analysis of Circle, a sportswear brand:
 **Goal:** Analyze customer behavior, product performance, and revenue trends for Olist, Brazil's largest e-commerce marketplace.
 
 **Tools:** BigQuery SQL
+
+#### Olist E-Commerce Data Analysis & Business Insights
+
+**Repo:** [olist-ecommerce-analysis2](https://github.com/BahadirKoksal/olist-ecommerce-analysis2)
+
+**Goal:** Comprehensive business analysis of the Olist Brazilian E-Commerce Dataset — covering regional performance, financial KPIs, customer retention, payment behavior, and seller insights across 27 states (2016–2018).
+
+**Skills:** Data cleaning, multi-table joins, KPI calculation, geographic analysis, business recommendations
+
+**Technology:** BigQuery SQL
+
+**Results:** Identified SP dominates with 45% of all orders but low AOV; AL/MA have 20%+ late delivery rates correlated with lowest review scores; 97% of customers purchase only once — returning customers spend 2x more.
 
 #### Other SQL Projects
 
