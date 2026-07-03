@@ -1,14 +1,9 @@
-# Bahadır Köksal - Data Analyst Portfolio
+# Bahadır Köksal — Behavioural & Data Research Portfolio
 
 ## About
 
-Hi, I'm Bahadır. I study how people think, decide, and act — and I use data to make that legible for organisations.
-
-My journey with data started during my B.A. in Anthropology at Yeditepe University, where I graduated first in class and built a foundation in quantitative and qualitative research methods, survey design, and statistical analysis. I applied those skills in practice early on: as a research intern at Koç University's ERC-funded Emerging Welfare project, I worked with large-scale datasets on social movements using computational methods. In subsequent roles at global research and consulting firms, I designed and analysed studies for internationally recognised brands — running consumer behaviour research, segmentation analysis, and mixed-methods insight work across markets.
-
-At Heidelberg University, where I completed my M.A. in Sociocultural Anthropology with a 1.9 GPA, I deepened the technical side further — taking coursework in Machine Learning for Social Sciences alongside advanced qualitative and computational methods. I am currently completing the Workintech Data Analytics & AI certification, where I work on applied business scenarios involving EDA, KPI analysis, and dashboard development.
-
-The result is an analyst who brings both behavioural depth and technical range: SQL & BigQuery for data extraction and transformation, Power BI and Looker Studio for reporting, and Google Sheets for business-facing analysis — always grounded in an understanding of the human patterns behind the numbers.
+Hi, I'm Bahadır. This is where I share personal research and analytical projects exploring human behaviour, markets, and organisations through data.
+Behavioural Insights · Consumer Research · Data Analytics · Business Intelligence · Mixed Methods Research · Data Visualisation
 
 ## Tools & Technologies
 
