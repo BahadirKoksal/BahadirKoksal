@@ -3,6 +3,7 @@
 ## About
 
 Hi, I'm Bahadır. This is where I share personal research and analytical projects exploring human behaviour, markets, and organisations through data.
+
 Behavioural Insights · Consumer Research · Data Analytics · Business Intelligence · Mixed Methods Research · Data Visualisation
 
 ## Tools & Technologies
