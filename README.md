@@ -12,6 +12,8 @@ Behavioural Insights · Consumer Research · Data Analytics · Business Intellig
 |---|---|
 | **Query & Transformation** | SQL, BigQuery, DBT |
 | **Programming** | Python |
+| **Statistical Analysis** | A/B Testing, Hypothesis Testing, Correlation Analysis |
+| **Machine Learning** | Scikit-learn, Supervised & Unsupervised Learning |
 | **Spreadsheets** | Excel, Google Sheets |
 | **BI & Visualisation** | Power BI, Looker Studio |
 | **Data Integration & Automation** | Fivetran, Zapier, Google Tag Manager |
