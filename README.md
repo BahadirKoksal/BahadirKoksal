@@ -1,4 +1,4 @@
-# Bahadır Köksal — Behavioural & Data Research Portfolio
+# Bahadır Köksal - Data Analyst Portfolio
 
 ## About
 
@@ -48,6 +48,7 @@ Behavioural Insights · Consumer Research · Data Analytics · Business Intellig
   - [Instacart Behavioral Analysis (SQL)](#instacart-behavioral-analysis)
   - [Python](#python)
     - [Travel Agency Database Challenge](#travel-agency-database-challenge)
+    - [Sumup Orders Analysis](#sumup-orders-analysis)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
@@ -234,6 +235,20 @@ Two-part analysis of Circle, a sportswear brand:
 
 **Results:** Delivered a working `get_cities_nearby()` function that takes a customer's coordinates and a radius (km) and returns all cities within range — a practical tool for travel destination recommendation.
 
+#### Sumup Orders Analysis
+
+**Repo:** [sumup-orders-analysis](https://github.com/BahadirKoksal/sumup-orders-analysis)
+
+**Goal:** Explore, clean, and derive business insights from real transactional order data collected across 10 restaurants using Sumup's POS system.
+
+**Description:** Worked with 3 joined CSV datasets (orders, order lines, store metadata) to analyze revenue distribution, order volume, average spend, order duration, and product-level performance. Included data cleaning (division-by-zero, invalid transactions), feature engineering, and multi-table joins.
+
+**Skills:** Data loading, cleaning, aggregation, feature engineering, joins, exploratory data analysis
+
+**Technology:** Python, Pandas, Google Colab
+
+**Results:** Restaurant 7965 generates ~€1.1M revenue with only ~9K orders (highest AOV at ~€125/order) vs. restaurant 1796 with ~27K orders at ~€11.7/order — revealing fundamentally different restaurant categories. Paris's 2nd arrondissement alone accounts for 59,381 orders.
+
 ---
 
 ## Certificates
@@ -246,5 +261,5 @@ Two-part analysis of Circle, a sportswear brand:
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/bahadır-köksal-m.a.](https://www.linkedin.com/in/bahad%C4%B1r-k%C3%B6ksal-m-a-5806642a9/)
+- **LinkedIn:** [linkedin.com/in/bahadır-köksal](https://www.linkedin.com/in/bahad%C4%B1r-k%C3%B6ksal-5806642a9/)
 - **Email:** koksalbahadirakif@gmail.com
