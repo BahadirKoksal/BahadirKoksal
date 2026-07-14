@@ -261,5 +261,5 @@ Two-part analysis of Circle, a sportswear brand:
 
 ## Contact
 
-- **LinkedIn:** [Bahadır Köksal](https://www.linkedin.com/in/bahad%C4%B1r-k%C3%B6ksal-m-a-5806642a9/)
+- **LinkedIn:** [Bahadır Köksal](https://www.linkedin.com/in/bahad%C4%B1r-k%C3%B6ksal-5806642a9/)
 - **Email:** koksalbahadirakif@gmail.com
