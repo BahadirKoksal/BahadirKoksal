@@ -49,6 +49,7 @@ Behavioural Insights · Consumer Research · Data Analytics · Business Intellig
   - [Python](#python)
     - [Travel Agency Database Challenge](#travel-agency-database-challenge)
     - [Sumup Orders Analysis](#sumup-orders-analysis)
+    - [Financial Returns Analysis](#financial-returns-analysis)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
@@ -249,6 +250,20 @@ Two-part analysis of Circle, a sportswear brand:
 
 **Results:** Restaurant 7965 generates ~€1.1M revenue with only ~9K orders (highest AOV at ~€125/order) vs. restaurant 1796 with ~27K orders at ~€11.7/order — revealing fundamentally different restaurant categories. Paris's 2nd arrondissement alone accounts for 59,381 orders.
 
+#### Financial Returns Analysis
+
+**Repo:** [financial-returns-analysis](https://github.com/BahadirKoksal/financial-returns-analysis)
+
+**Goal:** Analyze historical stock market data to uncover trends, calculate returns, and build interactive financial visualizations.
+
+**Description:** Worked with Apple (AAPL) stock data (Feb 2015–Feb 2017) and Plotly's built-in multi-stock dataset (Google, Apple, Amazon, Facebook, Netflix, Microsoft) to explore time series data, compute daily percentage returns, apply rolling window functions, handle missing trading day gaps, and compare multi-stock performance using normalized rebasing.
+
+**Skills:** Time series analysis, resampling, daily returns, rolling averages, missing data handling, data reshaping, interactive visualization
+
+**Technology:** Python, Pandas, NumPy, Plotly
+
+**Results:** Apple showed a -24.8% year-over-year drop in Q3 2016 followed by a +12.9% recovery by Q1 2017. Microsoft, Apple, and Amazon reached 1.7–1.8x their starting value by end of 2019. Netflix was the most volatile stock. Moving average crossover analysis on Google revealed golden cross / death cross signals.
+
 ---
 
 ## Certificates
@@ -261,5 +276,5 @@ Two-part analysis of Circle, a sportswear brand:
 
 ## Contact
 
-- **LinkedIn:** [Bahadır Köksal](https://www.linkedin.com/in/bahad%C4%B1r-k%C3%B6ksal-5806642a9/)
+- **LinkedIn:** [linkedin.com/in/bahadır-köksal-m.a.](https://www.linkedin.com/in/bahad%C4%B1r-k%C3%B6ksal-m-a-5806642a9/)
 - **Email:** koksalbahadirakif@gmail.com
