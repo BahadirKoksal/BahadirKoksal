@@ -50,6 +50,7 @@ Behavioural Insights · Consumer Research · Data Analytics · Business Intellig
     - [Travel Agency Database Challenge](#travel-agency-database-challenge)
     - [Sumup Orders Analysis](#sumup-orders-analysis)
     - [Financial Returns Analysis](#financial-returns-analysis)
+    - [Olist E-Commerce Data Analysis — Statistical Testing](#olist-e-commerce-data-analysis--statistical-testing)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
@@ -263,6 +264,20 @@ Two-part analysis of Circle, a sportswear brand:
 **Technology:** Python, Pandas, NumPy, Plotly
 
 **Results:** Apple showed a -24.8% year-over-year drop in Q3 2016 followed by a +12.9% recovery by Q1 2017. Microsoft, Apple, and Amazon reached 1.7–1.8x their starting value by end of 2019. Netflix was the most volatile stock. Moving average crossover analysis on Google revealed golden cross / death cross signals.
+
+#### Olist E-Commerce Data Analysis — Statistical Testing
+
+**Repo:** [olist-ecommerce-data-analysis](https://github.com/BahadirKoksal/olist-ecommerce-data-analysis)
+
+**Goal:** Extract actionable business insights from the Olist Brazilian E-Commerce Dataset (2016–2018) through descriptive statistics, correlation analysis, and formal hypothesis testing.
+
+**Description:** Joined 7 relational CSV tables (99K+ orders) covering customers, orders, payments, reviews, products, and sellers. Conducted full EDA, computed correlations across key variable pairs, and ran formal statistical tests to validate whether observed patterns were statistically significant.
+
+**Skills:** EDA, descriptive statistics, Pearson correlation, t-test, ANOVA, chi-square test, data cleaning, visualization
+
+**Technology:** Python, Pandas, NumPy, Plotly, SciPy
+
+**Results:** Delivery time is the single strongest driver of satisfaction — on-time deliveries score 4.21 vs. 2.57 for late ones (t-test: p < 0.0001). Order value varies significantly by product category (ANOVA: p < 0.0001). Payment method has no meaningful effect on completion rate (chi-square: p = 0.372). 77.1% of customers gave a score of 4 or higher.
 
 ---
 
