@@ -1,4 +1,4 @@
-# Bahadır Köksal - Behavioural & Data Research Portfolio
+# Bahadır Köksal - Data & Insight Portfolio
 
 ## About
 
