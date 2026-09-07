@@ -281,14 +281,6 @@ Two-part analysis of Circle, a sportswear brand:
 
 ---
 
-## Certificates
-
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) — Google / Coursera (Oct 2025)
-- Data Analytics & AI — Workintech (Jan 2026 – ongoing)
-- Computational Social Science & Data Methods — Marmara University, supported by Boğaziçi University & METU (Sep 2025 – ongoing)
-
----
-
 ## Contact
 
 - **LinkedIn:** [Bahadır Köksal](https://www.linkedin.com/in/bahad%C4%B1r-k%C3%B6ksal-5806642a9/)
